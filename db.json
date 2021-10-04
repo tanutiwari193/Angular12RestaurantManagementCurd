@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "madhu",
+      "email": "madhutiwari@gmail.com",
+      "mobile": "67687899",
+      "address": "vibhuti khand",
+      "services": "tea"
+    },
+    {
+      "id": 5,
+      "name": "aditi",
+      "email": "aditi@gmail.com",
+      "mobile": "6778789989",
+      "address": "adarshnagar",
+      "services": "tea"
+    },
+    {
+      "id": 6,
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "mobile": "677878989",
+      "address": "bijendravns@gmail.com",
+      "services": "tea"
+    },
+    {
+      "id": 7,
+      "name": "Tanu",
+      "email": "tanutiwari193@gmail.com",
+      "mobile": "677888554",
+      "address": "janvi",
+      "services": "tea"
+    },
+    {
+      "id": 8,
+      "name": "Ritika Thakur",
+      "email": "ritika@gmail.com",
+      "mobile": "7865444677",
+      "address": "lucknow",
+      "services": "coffee"
+    },
+    {
+      "id": 9,
+      "name": "khushi",
+      "email": "khushi@gmail.com",
+      "mobile": "76576453",
+      "address": "agra",
+      "services": "coffee"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Tanu",
+      "email": "tanutiwari@gmail.com",
+      "mobile": "76878987876",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Madhu Tiwari",
+      "email": "madhu@gmail.com",
+      "mobile": "89045677",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
